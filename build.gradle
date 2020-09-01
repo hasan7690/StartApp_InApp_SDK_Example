@@ -6,7 +6,8 @@ buildscript {
 
     dependencies {
         classpath 'com.android.tools.build:gradle:3.6.3'
-    }
+    implementation 'com.startapp:inapp-sdk:4.6.+'
+}
 }
 
 allprojects {
